@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TONGの博客</title>
+  
+  <subtitle>TONG.top</subtitle>
+  <link href="https://dingzhenchen.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dingzhenchen.github.io/"/>
+  <updated>2023-01-04T09:00:00.000Z</updated>
+  <id>https://dingzhenchen.github.io/</id>
+  
+  <author>
+    <name>TONG</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://dingzhenchen.github.io/2023/01/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://dingzhenchen.github.io/2023/01/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-01-04T09:00:00.000Z</published>
+    <updated>2023-01-04T09:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一篇文章&quot;&gt;&lt;a href=&quot;#第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;第一篇文章&quot;&gt;&lt;/a&gt;第一篇文章&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="java" scheme="https://dingzhenchen.github.io/categories/java/"/>
+    
+    <category term="JAVASE" scheme="https://dingzhenchen.github.io/categories/java/JAVASE/"/>
+    
+    <category term="基础知识" scheme="https://dingzhenchen.github.io/categories/java/JAVASE/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    
+    <category term="javase" scheme="https://dingzhenchen.github.io/tags/javase/"/>
+    
+  </entry>
+  
+</feed>
